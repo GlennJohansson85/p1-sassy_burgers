@@ -34,7 +34,7 @@ The Contact Us section features a contact form that allows users to get in touch
 
 ### NU Html Checker
 #### index.html
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/3a967037-9b9c-4244-951b-4dfa3941831b)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/78ce34da-3f80-458f-96d2-a4f669a9ee27)
 #### menu.html
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/55223a0b-64bc-4551-a1af-0040a7ed68f2)
 #### contact.html
