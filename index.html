@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="sassy burgers restaurant/fast food in london, england"> 
+    <meta name="keywords" content="sassy, hamburger, burger, fast food, restaurant, London">
+    <link rel='stylesheet' type='text/css' href='assets/css/style.css'> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>Sassy Burgers</title>
+</head>
+    
+<body>
+    <!-- NAV -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <!-- TITLE -->
+    <h1>sassy burgers</h1>
+
+    <!-- BURGER SHOWCASE -->
+    <div class="section-burger">
+        <ul class="burger-showcase clearfix">
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b1.webp" alt="Classic Burger"></figure>
+            </li>
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b2.webp" alt="Original Burger"></figure>
+            </li>
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b3.webp" alt="Beef Burger"></figure>
+            </li>
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b4.webp" alt="Bacon Burger"></figure>
+            </li>
+        </ul>
+        <ul class="burger-showcase clearfix">
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b5.webp" alt="Bacon Cheese Burger"></figure>
+            </li>
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b6.webp" alt="Cheese Burger"></figure>
+            </li>
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b7.webp" alt="Chili Burger"></figure>
+            </li>
+            <li>
+                <figure class="burger-photo"><img src="assets/images/b8.webp" alt="Veggie Burger"></figure>
+            </li>
+        </ul>
+    </div>
+
+    <!-- ABOUT US -->
+    <h2>about us</h2>
+    <div class="text-container">
+        <p>Welcome to "Sassy Burgers," a hidden gem nestled in the heart of a bustling city. As you step inside, you're greeted by the mouthwatering aroma of sizzling patties and the friendly chatter of satisfied customers. With its retro diner decor and cozy booths, Sassy Burgers exudes a timeless charm that makes it a favorite among locals and tourists alike.</p>
+    </div>
+    <br>
+    <!-- RESTAURANT IMAGE -->
+    
+    <img src="assets/images/restaurant.png" id="restaurant" alt="four photos showing the inside of the restaurant">
+
+    <!-- CONTACT -->
+    <section class="contact-container">
+        <form id="contact_form" method="post" action="https://formdump.codeinstitute.net">
+            <fieldset>
+                <legend>
+                    <h2>Contact Us</h2>
+                </legend>
+                <div class="contact-row">
+                    <label for="name" class="contact-label">name:</label>
+                    <input type="text" name="name" id="name" class="contact-input" placeholder="your name" required>
+                </div>
+
+                <div class="contact-row">
+                    <label for="email" class="contact-label">email:</label>
+                    <input type="email" name="email" id="email" class="contact-input" placeholder="your email" required>
+                </div>
+
+                <div class="contact-row">
+                    <label for="message" class="contact-label">message:</label>
+                    <textarea name="message" id="message" class="contact-input" placeholder="Share your thoughts" rows="5" required></textarea>
+                </div>
+
+                <div>
+                    <input type="reset" name="reset" id="reset" class="contact-button" value="Reset">
+                    <input type="submit" name="send" class="contact-button" value="Submit">
+                </div>
+            </fieldset>
+        </form>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-social">
+                <ul class="social-links">
+                    <li><a href="http://www.facebook.com/" target="_blank" aria-label="Facebook opens in a new window"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="http://www.instagram.com/" target="_blank" aria-label="Instagram opens in a new window"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="http://www.twitter.com/" target="_blank" aria-label="Twitter opens in a new window"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
