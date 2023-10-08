@@ -32,6 +32,14 @@ The Contact Us section features a contact form that allows users to get in touch
 
 ## Testing
 
+### NU Html Checker
+#### index.html
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/3a967037-9b9c-4244-951b-4dfa3941831b)
+#### menu.html
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/55223a0b-64bc-4551-a1af-0040a7ed68f2)
+#### contact.html
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e451983-b46c-4682-bd12-9979c9fa7b47)
+
 The Sassy Burgers website has been tested to ensure its functionality and responsiveness on various devices and browsers. The testing includes the following aspects:
 
 ### HTML
