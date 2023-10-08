@@ -57,6 +57,7 @@ The Contact Us section features a contact form that allows users to get in touch
 
 ### Unfixed Bugs
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4c1f282c-64a1-4fbd-aa98-c800e52b4042)
+
 Fieldset border Outline - Spent hours trying to get the same style as the hr element.
 Contact input - When shrinking the message input does not begin at the same spot as "name" and "email".
 
