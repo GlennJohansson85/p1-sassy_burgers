@@ -40,6 +40,11 @@ The Contact Us section features a contact form that allows users to get in touch
 #### contact.html
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e451983-b46c-4682-bd12-9979c9fa7b47)
 
+### The W3C Validation Servcie
+#### style.css
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/782d3bf9-f44c-4149-90be-fd04e3838f68)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e2ddca1-824b-4fc5-b850-06ac180a7b8e)
+
 The Sassy Burgers website has been tested to ensure its functionality and responsiveness on various devices and browsers. The testing includes the following aspects:
 
 ### HTML
