@@ -56,7 +56,7 @@ The Contact Us section features a contact form that allows users to get in touch
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e2ddca1-824b-4fc5-b850-06ac180a7b8e)
 
 ### Unfixed Bugs
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23f436cd-4413-4a0d-aa87-425c17d2a13a)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4c1f282c-64a1-4fbd-aa98-c800e52b4042)
 Fieldset border Outline - Spent hours trying to get the same style as the hr element.
 Contact input - When shrinking the message input does not begin at the same spot as "name" and "email".
 
@@ -85,6 +85,5 @@ https://css-tricks.com/examples/hrs
 ##### Images
 https://unsplash.com/s/photos/burger
 
-## Author
-
-This Sassy Burgers website and README.md were created by [Glenn Johansson].
+### Developer & Author
+[Glenn Johansson]
