@@ -207,3 +207,6 @@ hr {
     height: 1px;
     background-image: linear-gradient(to right, #ea7dd9, #fff, #ea7dd9);
 }
+/* MEDIA QUERIES */
+@media (min-width: 769px), (max-width: 1200px) {body} /*Screens larger 768px and smaller than 1200px
+@media (max-width: 769px), (min-width: 1601px) {body} /*Screens smaller than 768px or larger than 1600px
