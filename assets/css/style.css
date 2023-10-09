@@ -1,5 +1,5 @@
-/* IMPORT */
-@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Ysabeau+SC:wght@100;200&display=swap');
+/* FONT IMPORT */
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Ysabeau+SC:wght@100;200&display=swap");
 
 /* OVERALL SETTINGS */
 body {
@@ -15,7 +15,7 @@ p {
     font-size: 1.3rem;
     color: #fff;
 }
-/* link - hover effect ("https://css-tricks.com/css-link-hover-effects/") */
+/* Link hover style ("https://css-tricks.com/css-link-hover-effects") */
 a {
     background-image: linear-gradient(to right,     
             #ea7dd9,
@@ -67,7 +67,7 @@ a:hover::before {width: 100%;}
     padding: 1px 10px 1px 10px;
     text-decoration: none;
 }
-/* TITLES ("https://kinsta.com/blog/css-text-outline/") */
+/* TITLES ("https://kinsta.com/blog/css-text-outline") */
 h1,
 h2,
 h3 {
@@ -85,7 +85,7 @@ h1 {font-size: 4rem;}
 h2 {font-size: 3rem;}
 h3 {font-size: 2rem;}
 
-/* BURGER SHOWCASE ("[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3")*/
+/* BURGER SHOWCASE ("[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3") */
 .section-burger {
     border: 10px solid transparent;
     border-radius: 10px;
@@ -121,7 +121,7 @@ h3 {font-size: 2rem;}
     margin: 0 auto;
 }
 #restaurant {
-    max-width: 100%;
+    max-width: 98%; /* Bug: max-width 100% = image go beyond 1200px */
     border: 10px solid transparent;
     border-radius: 10px;
     border-color: #333;
@@ -189,7 +189,7 @@ fieldset {
 .social-links a {color: #fff;}
 .social-links a:hover {color: #ea7dd9;}
 
-/*-- MENU.HTML --*/
+/* MENU.HTML */
 .center-img {
     display: flex;
     justify-content: center;
@@ -199,7 +199,7 @@ fieldset {
     border-radius: 10px;
     border-color: #333;
 }
-/* HR STYLE ("https://css-tricks.com/examples/hrs/") */
+/* HR STYLE ("https://css-tricks.com/examples/hrs") */
 hr {
     width: 50%;
     margin-bottom: 5%;
