@@ -130,6 +130,7 @@ h3 {
     margin: 0 auto;
 }
 #restaurant {
+    max-width: 100%;
     border: 10px solid transparent;
     border-radius: 10px;
     border-color: #333;
