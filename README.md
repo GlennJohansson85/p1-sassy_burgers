@@ -4,7 +4,8 @@
 
 ## *Features*
 ***Style***
-*Discover a bold designed user interface that effortlessly blends a dark background with eye-catching pink titles. These titles are made to pop with a subtle hint of white shadow effect.
+<br>
+Discover a bold designed user interface that effortlessly blends a dark background with eye-catching pink titles. These titles are made to pop with a subtle hint of white shadow effect.
 The chosen sophisticated font-family for the text imparts an elegant and mature feel to the design.
 Maintaining visual consistency, all images feature a uniform outline in the same color as the navbar and footer, ensuring a seamless experience as you navigate the website. Moreover, a dash of originality and visual interest is introduced through the use of gradient coloring for the "hr" element. Step into a design that's not just visually pleasing but also leaves a lasting impression!*
 
