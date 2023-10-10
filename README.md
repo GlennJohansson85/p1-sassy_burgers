@@ -1,8 +1,8 @@
-# *Sassy Burgers*
+# ***Sassy Burgers***
 *Welcome to a burger paradise tailored exclusively for Sassy Burgers' loyal customers! Get ready to embark on a mouthwatering journey through a world of delectable burger creations. Our website is your gateway to an epicurean experience, offering a tantalizing glimpse into our restaurant's charm, an enticing showcase of our irresistible menu, and seamless means to connect with us. Come, indulge your burger cravings and immerse yourself in a culinary adventure that's just a click away!*
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/eeda0f3c-3536-43c3-ae13-dfa67ecb4514)
 
-## *Features*
+## ***Features***
 ### ***Style:***
 *Discover a bold designed user interface that effortlessly blends a dark background with eye-catching pink titles. These titles are made to pop with a subtle hint of white shadow effect.
 The chosen sophisticated font-family for the text imparts an elegant and mature feel to the design.
@@ -43,7 +43,9 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f9f6ac23-c94b-4479-9477-e923973a3cd8)
 
-### Responsiveness
+## ***Responsiveness***
+*Responsive testing has been performed through mobile-, tablet- and desktop-devices. Also carried out with Google developer tools and the application presented in the screenshot below*
+<br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/fbf60621-c34e-447c-b25c-80c4250f32ab)
 
 
