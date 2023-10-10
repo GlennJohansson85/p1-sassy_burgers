@@ -11,37 +11,29 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 <br>
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/eff10387-26db-4122-bdda-d26f6d418b8c)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Navigation Bar
-The responsive navigationbar can be found on all pages, allowing users to easily access different sections of the website, including "Home", "Menu" and "Contact Us."
+<br>
+***Navigation Bar:***
+*The responsive navigationbar can be found on all pages, allowing users to easily access different sections of the website, including "Home", "Menu" and "Contact Us."*
+<br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/0532de7e-6263-4b9c-9a42-5726b2f3d494)
-
-#### Footer
-The same responsive navigationbar can be found in the footer, except featureing social media links/icons for "Facebook", "Instagram" and "Twitter/(X)". 
+<br>
+***Footer:***
+*The same responsive navigationbar can be found in the footer, except featureing social media links/icons for "Facebook", "Instagram" and "Twitter/(X)".* 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/735dd8ec-af74-4042-b7ce-544603413177)
-
-#### Burger Showcase
-A visually appealing display of various burger images is showcased, enticing users to explore the restaurant's menu. When hovering over each image, not only does it illuminate, but it also zooms in to provide a grander view. 
+<br>
+***Burger Showcase***
+<br>
+*A visually appealing display of various burger images is showcased, enticing users to explore the restaurant's menu. When hovering over each image, not only does it illuminate, but it also zooms in to provide a grander view.*
+<br>
 [image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6bdeee41-673a-4986-b503-8c1ceaae5b6d)
-
-#### About Us 
-A brief introduction featuring four photos of the restaurant, giving users an insight into the atmosphere and charm of Sassy Burgers.
+<br>
+***About Us:***
+<br>
+*A brief introduction featuring four photos of the restaurant, giving users an insight into the atmosphere and charm of Sassy Burgers.*
+<br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/bf0b7aeb-7c46-4693-876a-13440edd8a6c)
-
-#### Menu
+<br>
+***Menu:***
 The Menu section presents the restaurant's burger offerings. Each burger is displayed with an image, name, price, and description.
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/2f1e0717-7802-45ee-8056-7484e1b8409f)
 
