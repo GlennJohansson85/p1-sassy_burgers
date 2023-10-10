@@ -196,6 +196,7 @@ fieldset {
     padding-top: 15px;
     display: flex;
     justify-content: center;
+    text-align:center;
 }
 .social-links li {
     margin: 0 50px;
