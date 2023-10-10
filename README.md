@@ -1,12 +1,6 @@
 ## Sassy Burgers
 Sassy Burgers is a fictional restaurant/fast food establishment located in London, England. This README.md file provides an overview of the HTML and CSS used to create the Sassy Burgers website.
 
-### Screenshots
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/2baaf65d-1da8-4173-89df-0b47bf725177)
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/b9e4e4e1-538d-4b0d-8ecf-8d2ec1256e5d)
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/5d9f6310-799e-41c1-b2c5-ee90b02b8f70)
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/59487580-a41b-489b-92c9-19fc3f7b4e67)
-
 ### Responsiveness
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/fbf60621-c34e-447c-b25c-80c4250f32ab)
 
@@ -15,30 +9,31 @@ Sassy Burgers is a fictional restaurant/fast food establishment located in Londo
 Strived for a clean and user-friendly interface by employing a dark-colored background complemented by vibrant pink titles. To enhance the visual appeal, I added a subtle white text-shadow effect to make the titles stand out. For the textual content within the website, I chose a more sophisticated font-family to ensure a mature and elegant appearance, avoiding any overly playful or childish elements.
 
 To maintain a cohesive look, I applied a consistent outline in the same color as the navbar and footer to all images, providing a unified visual experience throughout the website. Additionally, I utilized gradient coloring for the "hr" element to infuse a touch of originality and visual interest into the design. 
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/d6950007-de23-47e6-a907-cd46b06ca30e)
 
 #### Navigation Bar
 The responsive navigationbar can be found on all pages, allowing users to easily access different sections of the website, including "Home", "Menu" and "Contact Us."
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/0532de7e-6263-4b9c-9a42-5726b2f3d494)
 
 #### Footer
 The same responsive navigationbar can be found in the footer, except featureing social media links/icons for "Facebook", "Instagram" and "Twitter/(X)". 
-
-#### Home
-The Home section of the website serves as the landing page and includes the features above aswell as:
-
-#### Page Title
-The page title "Sassy Burgers" is displayed prominently at the top of the Home page.
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/735dd8ec-af74-4042-b7ce-544603413177)
 
 #### Burger Showcase
 A visually appealing display of various burger images is showcased, enticing users to explore the restaurant's menu. When hovering over each image, not only does it illuminate, but it also zooms in to provide a grander view. 
+[image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6bdeee41-673a-4986-b503-8c1ceaae5b6d)
 
 #### About Us 
 A brief introduction featuring four photos of the restaurant, giving users an insight into the atmosphere and charm of Sassy Burgers.
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/bf0b7aeb-7c46-4693-876a-13440edd8a6c)
 
 #### Menu
 The Menu section presents the restaurant's burger offerings. Each burger is displayed with an image, name, price, and description.
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/2f1e0717-7802-45ee-8056-7484e1b8409f)
 
 #### Contact Us
 The Contact Us section features a contact form that allows users to get in touch with the restaurant. It includes fields for the user's name, email address, and message. Users can submit their inquiries using this form.
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f157a047-3bea-4583-9b7d-c7ece55c27ff)
 
 ### Testing html - Performed using the live preview url
 #### NU Html Checker
@@ -46,8 +41,7 @@ The Contact Us section features a contact form that allows users to get in touch
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/78ce34da-3f80-458f-96d2-a4f669a9ee27)
 ##### menu.html
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/55223a0b-64bc-4551-a1af-0040a7ed68f2)
-##### contact.html
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e451983-b46c-4682-bd12-9979c9fa7b47)
+
 
 ### Testing CSS - Performed using direct input
 ##### The W3C Validation Servcie
