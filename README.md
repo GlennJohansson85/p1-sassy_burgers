@@ -26,7 +26,6 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 <br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/124a4373-c1e1-4511-ab37-c10a105d2aaf)
 
-
 ### ***About Us:***
 *A brief introduction featuring four photos of the restaurant, giving users an insight into the atmosphere and charm of Sassy Burgers.*
 <br>
@@ -35,11 +34,11 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ### ***Menu:***
 *The Menu section presents the restaurant's burger offerings. Each burger is displayed with an image, name, price, and description.*
 <br>
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/2f1e0717-7802-45ee-8056-7484e1b8409f)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/ee8dda10-eed1-4aa5-8166-bc8680025898)
 
 ### ***Contact Us:***
 *The Contact Us section features a contact form that allows users to get in touch with the restaurant. It includes fields for the user's name, email address, and message. Users can submit their inquiries using this form.*
-
+<br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f157a047-3bea-4583-9b7d-c7ece55c27ff)
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f9f6ac23-c94b-4479-9477-e923973a3cd8)
