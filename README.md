@@ -24,7 +24,8 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ### ***Burger Showcase***
 *A visually appealing display of various burger images is showcased, enticing users to explore the restaurant's menu. When hovering over each image, not only does it illuminate, but it also zooms in to provide a grander view.*
 <br>
-[image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6bdeee41-673a-4986-b503-8c1ceaae5b6d)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/124a4373-c1e1-4511-ab37-c10a105d2aaf)
+
 
 ### ***About Us:***
 *A brief introduction featuring four photos of the restaurant, giving users an insight into the atmosphere and charm of Sassy Burgers.*
