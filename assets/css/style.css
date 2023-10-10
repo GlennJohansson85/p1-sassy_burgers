@@ -139,6 +139,8 @@ h3 {
     box-sizing: border-box; /* Ensure image follow body max-width */
 }
 /* CONTACT.HTML */
+#contact-container {}
+
 fieldset {
     border-radius: 10px;
     text-align: left;
