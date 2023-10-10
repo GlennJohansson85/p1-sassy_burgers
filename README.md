@@ -7,7 +7,8 @@ Welcome to a burger paradise tailored exclusively for Sassy Burgers' loyal custo
 Discover a bold designed user interface that effortlessly blends a dark background with eye-catching pink titles. These titles are made to pop with a subtle hint of white shadow effect.
 The chosen sophisticated font-family for the text imparts an elegant and mature feel to the design.
 Maintaining visual consistency, all images feature a uniform outline in the same color as the navbar and footer, ensuring a seamless experience as you navigate the website. Moreover, a dash of originality and visual interest is introduced through the use of gradient coloring for the "hr" element. Step into a design that's not just visually pleasing but also leaves a lasting impression!"
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/c559eda9-4d42-46bc-b68c-74c82e36e904)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/eff10387-26db-4122-bdda-d26f6d418b8c)
+
 
 
 
