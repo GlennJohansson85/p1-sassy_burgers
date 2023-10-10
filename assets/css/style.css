@@ -53,6 +53,7 @@ a:hover::before {
     overflow: hidden;
     border-radius: 10px;
     margin-top: 15px;
+    text-align: center;
 }
 .navbar ul {
     list-style-type: none;
@@ -231,10 +232,8 @@ hr {
     body {
         max-width: 100%; /* Ensure content takes full width on smaller screens */
     }
-}
 @media (max-width: 768px) { /* Screens up to 768px */
     body {
     padding-left: 5px; /* Ensure content looks good on smaller screens */
     padding-right: 5px; /* Ensure content looks good on smaller screens */
     }
-}
