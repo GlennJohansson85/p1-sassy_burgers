@@ -9,7 +9,8 @@ Sassy Burgers is a fictional restaurant/fast food establishment located in Londo
 Strived for a clean and user-friendly interface by employing a dark-colored background complemented by vibrant pink titles. To enhance the visual appeal, I added a subtle white text-shadow effect to make the titles stand out. For the textual content within the website, I chose a more sophisticated font-family to ensure a mature and elegant appearance, avoiding any overly playful or childish elements.
 
 To maintain a cohesive look, I applied a consistent outline in the same color as the navbar and footer to all images, providing a unified visual experience throughout the website. Additionally, I utilized gradient coloring for the "hr" element to infuse a touch of originality and visual interest into the design. 
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/7ca6273d-323b-4383-a26d-e60cc18180a2)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f2afafd7-ef8a-41f4-a444-9656959483e0)
+
 
 
 
