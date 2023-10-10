@@ -1,4 +1,4 @@
-#Sassy Burgers
+# Sassy Burgers
 Sassy Burgers is a fictional restaurant/fast food establishment located in London, England. This README.md file provides an overview of the HTML and CSS used to create the Sassy Burgers website.
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/eeda0f3c-3536-43c3-ae13-dfa67ecb4514)
 
