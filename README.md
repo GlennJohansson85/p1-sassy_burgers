@@ -2,14 +2,13 @@
 Welcome to a burger paradise tailored exclusively for Sassy Burgers' loyal customers! Get ready to embark on a mouthwatering journey through a world of delectable burger creations. Our website is your gateway to an epicurean experience, offering a tantalizing glimpse into our restaurant's charm, an enticing showcase of our irresistible menu, and seamless means to connect with us. Come, indulge your burger cravings and immerse yourself in a culinary adventure that's just a click away!
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/eeda0f3c-3536-43c3-ae13-dfa67ecb4514)
 
-### Responsiveness
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/fbf60621-c34e-447c-b25c-80c4250f32ab)
-
 ### Features
 #### Style
-Strived for a clean and user-friendly interface by employing a dark-colored background complemented by vibrant pink titles. To enhance the visual appeal, I added a subtle white text-shadow effect to make the titles stand out. For the textual content within the website, I chose a more sophisticated font-family to ensure a mature and elegant appearance, avoiding any overly playful or childish elements.
+Discover a bold designed user interface that effortlessly blends a dark background with eye-catching pink titles. These titles are made to pop with a subtle hint of white shadow effect.
 
-To maintain a cohesive look, I applied a consistent outline in the same color as the navbar and footer to all images, providing a unified visual experience throughout the website. Additionally, I utilized gradient coloring for the "hr" element to infuse a touch of originality and visual interest into the design.
+The chosen sophisticated font-family for the text imparts an elegant and mature feel to the design.
+
+Maintaining visual consistency, all images feature a uniform outline in the same color as the navbar and footer, ensuring a seamless experience as you navigate the website. Moreover, a dash of originality and visual interest is introduced through the use of gradient coloring for the "hr" element. Step into a design that's not just visually pleasing but also leaves a lasting impression!"
 <br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6a76c2e6-fb28-46a9-a118-7940dbc70486)
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/269f76a1-5267-41e7-8b0d-30f04ecc477b)
@@ -47,6 +46,10 @@ The Menu section presents the restaurant's burger offerings. Each burger is disp
 #### Contact Us
 The Contact Us section features a contact form that allows users to get in touch with the restaurant. It includes fields for the user's name, email address, and message. Users can submit their inquiries using this form.
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f157a047-3bea-4583-9b7d-c7ece55c27ff)
+
+### Responsiveness
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/fbf60621-c34e-447c-b25c-80c4250f32ab)
+
 
 ### Testing html - Performed using the live preview url
 #### NU Html Checker
