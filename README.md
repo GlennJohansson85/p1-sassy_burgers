@@ -13,6 +13,7 @@ To maintain a cohesive look, I applied a consistent outline in the same color as
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6a76c2e6-fb28-46a9-a118-7940dbc70486)
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/269f76a1-5267-41e7-8b0d-30f04ecc477b)
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/52a2798e-e99f-433a-8433-a3e0effbabc5)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/fdb0cad3-94a7-447f-8f36-431fef62ebff)
 
 
 
