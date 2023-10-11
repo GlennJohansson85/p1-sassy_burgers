@@ -48,28 +48,26 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/0145cd98-e845-44b9-8f88-7577e34c7e63)
 
 ## ***Testing***
-### ***Testing html - Performed using the live preview url***
-#### ***NU Html Checker***
+### ***Testing html***
+#### ***NU Html Checker - Performed using the live preview url***
 - ***index.html:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6155a53d-5d48-423d-9eb7-a4a0b37e25bc)
 - ***menu.html:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/8c7009a6-9402-427b-b1b1-8ac9ce853439)
 
-### ***Testing CSS - Performed using direct input***
-#### ***The W3C Validation Servcie***
+### ***Testing CSS***
+#### ***The W3C Validation Servcie - Performed using direct input***
 - ***style.css:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4a94a51c-dbbf-45fb-ab3b-e3ca2d7652b9)
 
-### ***Lighthouse - Website performance test
+### ***Lighthouse***
+#### ***Website Performance Test***
 [image]
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
 
 ## ***Unfixed Bugs***
-
-<br>
-
-*None*
+- *None*
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
 
