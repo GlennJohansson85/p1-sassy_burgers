@@ -81,21 +81,23 @@ Maintaining visual consistency, all images feature a uniform outline in the same
  - *Portfolio 1: Project Submission*
  - *Slack forum*
  - *Student support*
-+***My mentor***
-+***Google fonts:***
-++Font Family: "Fjalla One" and "Ysabeau SC"*
-+***Links hover effect:***
-++*https://css-tricks.com/css-link-hover-effects*
-+***Title text-shading:***
-++*https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
-+***Burger Showcase:***
-++*[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
-+***HR style:***
-++*https://css-tricks.com/examples/hrs*
+<br>
+***My mentor***
+<br>
+***Google fonts:***
+   -*Font Family: "Fjalla One" and "Ysabeau SC"*
+***Links hover effect:***
+   -*https://css-tricks.com/css-link-hover-effects*
+***Title text-shading:***
+   -*https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
+***Burger Showcase:***
+   -*[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
+***HR style:***
+   -*https://css-tricks.com/examples/hrs*
 +***Images:***
-++*https://unsplash.com/s/photos/burger*
+   -*https://unsplash.com/s/photos/burger*
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23b2f6aa-884a-4e30-ba86-ae6169325d88)
-
+<br>
 ## ***Developer & Author***
 ***[Glenn Johansson]***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/3240dc45-f3bd-4395-8ef1-23b443803e6e)
