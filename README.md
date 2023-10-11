@@ -59,9 +59,9 @@ Maintaining visual consistency, all images feature a uniform outline in the same
   ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4a94a51c-dbbf-45fb-ab3b-e3ca2d7652b9)
 
 ### ***Website Performance(Lighthouse)***
-- ***index.html***
+- ***index.html***<br>
   ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/e6a174fb-f968-4617-a1a8-8ab4a2898226)
-- ***menu.html***
+- ***menu.html***<br>
   ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/db8412e1-958c-487b-bfad-e952be33d944)
 
 
