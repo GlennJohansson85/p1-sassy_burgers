@@ -60,8 +60,8 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 - ***style.css:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4a94a51c-dbbf-45fb-ab3b-e3ca2d7652b9)
 
-### ***Lighthouse***
-#### ***Website Performance Test***
+### ***Testing Website***
+#### ***lighthouse - Performance Test***
 [image]
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
