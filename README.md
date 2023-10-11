@@ -64,12 +64,13 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ### ***Lighthouse(Performance test) - Performed through official website***
 [image]
 
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e2ddca1-824b-4fc5-b850-06ac180a7b8e)
 
-##***Unfixed Bugs***
-*None*
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
+##***Unfixed Bugs***
+<br>
+*None*
 
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
 ## ***Credits***
 ***Code Institute:*** 
  - *HTML Essentials*
