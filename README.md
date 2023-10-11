@@ -85,6 +85,7 @@ Maintaining visual consistency, all images feature a uniform outline in the same
  - *Slack forum*
  - *Student support*
 #### ***My mentor***
+*Brian Macharia*
 #### ***Google fonts:*** 
 *Font Family: "Fjalla One" and "Ysabeau SC"*
 #### ***Links hover effect:*** 
