@@ -240,6 +240,8 @@ hr {
 /* MEDIA QUERIES */
 @media  (max-width: 1200px) {
 body    {max-width: 100%;}
+}
 
 @media  (max-width: 768px) {
 body    {padding-left: 5px; padding-right: 5px;}
+}
