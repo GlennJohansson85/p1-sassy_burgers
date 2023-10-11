@@ -68,13 +68,9 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e2ddca1-824b-4fc5-b850-06ac180a7b8e)
 
-
 ##***Unfixed Bugs***
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4c1f282c-64a1-4fbd-aa98-c800e52b4042)
-<br>
-*Fieldset border Outline - Spent hours trying to get the same style as the hr element.
-Contact input - When shrinking the message input does not begin at the same spot as "name" and "email".*
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f3afd257-35c4-46f2-a708-9ae44649a3be)
+*None*
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
 
 ## ***Credits***
 ***Code Institute:*** 
