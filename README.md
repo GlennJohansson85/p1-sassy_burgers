@@ -99,6 +99,8 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 #### ***Images:*** 
 - *https://unsplash.com/s/photos/burger*
 <br>
+
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23b2f6aa-884a-4e30-ba86-ae6169325d88)
+
 ## ***Developer & Author***
 ***[Glenn Johansson]***
