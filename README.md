@@ -7,44 +7,32 @@
 *Discover a bold designed user interface that effortlessly blends a dark background with eye-catching pink titles. These titles are made to pop with a subtle hint of white shadow effect.
 The chosen sophisticated font-family for the text imparts an elegant and mature feel to the design.
 Maintaining visual consistency, all images feature a uniform outline in the same color as the navbar and footer, ensuring a seamless experience as you navigate the website. Moreover, a dash of originality and visual interest is introduced through the use of gradient coloring for the "hr" element. Step into a design that's not just visually pleasing but also leaves a lasting impression!*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/eff10387-26db-4122-bdda-d26f6d418b8c)
 
 ### ***Navigation Bar:***
 *The responsive navigationbar can be found on all pages, allowing users to easily access different sections of the website, including "Home", "Menu" and "Contact Us.*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/0532de7e-6263-4b9c-9a42-5726b2f3d494)
 
 ### ***Footer:***
 *The same responsive navigationbar can be found in the footer, except featureing social media links/icons for "Facebook", "Instagram" and "Twitter/(X)".* 
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/735dd8ec-af74-4042-b7ce-544603413177)
 
 ### ***Burger Showcase***
 *A visually appealing display of various burger images is showcased, enticing users to explore the restaurant's menu. When hovering over each image, not only does it illuminate, but it also zooms in to provide a grander view.*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/124a4373-c1e1-4511-ab37-c10a105d2aaf)
 
 ### ***About Us:***
 *A brief introduction featuring four photos of the restaurant, giving users an insight into the atmosphere and charm of Sassy Burgers.*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/bf0b7aeb-7c46-4693-876a-13440edd8a6c)
 
 ### ***Menu:***
 *The Menu section presents the restaurant's burger offerings. Each burger is displayed with an image, name, price, and description.*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/ee8dda10-eed1-4aa5-8166-bc8680025898)
 
 ### ***Contact Us:***
@@ -86,7 +74,8 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 *None*
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
-##***Credits***
+
+## ***Credits***
 ***Code Institute:*** 
  - *HTML Essentials*
  - *Portfolio 1: Assessment Guide Preview*
@@ -102,39 +91,21 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 
 ***My mentor***
 <br>
-
 ***Google fonts:*** *Font Family: "Fjalla One" and "Ysabeau SC"*
-
 <br>
-
 ***Links hover effect:*** *https://css-tricks.com/css-link-hover-effects*
-
 <br>
-
 ***Title text-shading:*** *https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
-
 <br>
-
 ***Burger Showcase:*** *[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
-
 <br>
-
 ***HR style:*** *https://css-tricks.com/examples/hrs*
-
 <br>
-
 ***Images:*** *https://unsplash.com/s/photos/burger*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23b2f6aa-884a-4e30-ba86-ae6169325d88)
-
 <br>
-
 ## ***Developer & Author***
-
-<br>
-
 ***[Glenn Johansson]***
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/3240dc45-f3bd-4395-8ef1-23b443803e6e)
