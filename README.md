@@ -57,7 +57,7 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 
 ### ***Testing CSS - Performed using direct input***
 #### ***The W3C Validation Servcie***
-***style.css***
+***style.css:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4a94a51c-dbbf-45fb-ab3b-e3ca2d7652b9)
 
 ### ***Lighthouse(Performance test) - Performed through official website***
