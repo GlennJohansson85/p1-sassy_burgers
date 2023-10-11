@@ -85,18 +85,19 @@ Maintaining visual consistency, all images feature a uniform outline in the same
  - *Slack forum*
  - *Student support*
 #### ***My mentor***
-*Brian Macharia*
+- *Brian Macharia*
 #### ***Google fonts:*** 
-*Font Family: "Fjalla One" and "Ysabeau SC"*
+- *Font Family: "Fjalla One" and "Ysabeau SC"*
 #### ***Links hover effect:*** 
-*https://css-tricks.com/css-link-hover-effects*
+- *https://css-tricks.com/css-link-hover-effects*
 #### ***Title text-shading:*** 
-*https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
+- *https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
 ##### ***Burger Showcase:*** 
-*[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
+- *[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
 ##### ***HR style:*** 
-*https://css-tricks.com/examples/hrs*
-#### ***Images:*** *https://unsplash.com/s/photos/burger*
+- *https://css-tricks.com/examples/hrs*
+#### ***Images:*** 
+- *https://unsplash.com/s/photos/burger*
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23b2f6aa-884a-4e30-ba86-ae6169325d88)
 ## ***Developer & Author***
 ***[Glenn Johansson]***
