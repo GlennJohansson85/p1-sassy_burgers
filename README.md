@@ -40,59 +40,68 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 *The Contact Us section features a contact form that allows users to get in touch with the restaurant. It includes fields for the user's name, email address, and message. Users can submit their inquiries using this form.*
 <br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f157a047-3bea-4583-9b7d-c7ece55c27ff)
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f9f6ac23-c94b-4479-9477-e923973a3cd8)
 
 ## ***Responsiveness***
-*Responsive testing has been performed through mobile-, tablet- and desktop-devices. Also carried out with Google developer tools and the application presented in the screenshot below*
+*Responsive testing has been performed through mobile-, tablet- and desktop-devices. Also carried out with Google developer tools and the application(https://ui.dev/amiresponsive) presented in the screenshot below*
 <br>
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/fbf60621-c34e-447c-b25c-80c4250f32ab)
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/0145cd98-e845-44b9-8f88-7577e34c7e63)
 
+## ***Testing***
+### ***Testing html - Performed using the live preview url***
+#### ***NU Html Checker***
+***index.html:***
+<br>
+![image]
+***menu.html***
+<br>
+![image]
+<br>
+### ***Testing CSS - Performed using direct input***
+#### ***The W3C Validation Servcie***
+***style.css***
+<br>
+![image]
+### ***Lighthouse(Performance test) - Performed through official website***
+[image]
 
-### Testing html - Performed using the live preview url
-#### NU Html Checker
-##### index.html
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/78ce34da-3f80-458f-96d2-a4f669a9ee27)
-##### menu.html
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/55223a0b-64bc-4551-a1af-0040a7ed68f2)
-
-
-### Testing CSS - Performed using direct input
-##### The W3C Validation Servcie
-##### style.css
-![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/782d3bf9-f44c-4149-90be-fd04e3838f68)
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6e2ddca1-824b-4fc5-b850-06ac180a7b8e)
 
-### Unfixed Bugs
+
+##***Unfixed Bugs***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4c1f282c-64a1-4fbd-aa98-c800e52b4042)
-<hr>
-Fieldset border Outline - Spent hours trying to get the same style as the hr element.
-Contact input - When shrinking the message input does not begin at the same spot as "name" and "email".
+<br>
+*Fieldset border Outline - Spent hours trying to get the same style as the hr element.
+Contact input - When shrinking the message input does not begin at the same spot as "name" and "email".*
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f3afd257-35c4-46f2-a708-9ae44649a3be)
 
-### Credits
-##### Code Institute: 
- - HTML Essentials
- - Portfolio 1: Assessment Guide Preview
- - CSS Essentials
- - IDE and Deployment Essentials
- - User Experience Essentials
- - Love Running - Essentails Project and Essentials Project(deprecated
- - Portfolio 1: Project Submission
- - Slack forum
- - Student support
-##### My mentor
-##### Google fonts
-Font Family: "Fjalla One" and "Ysabeau SC"
-##### Links hover effect
-https://css-tricks.com/css-link-hover-effects
-##### Title text-shading
-https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect)
-##### Burger Showcase
-[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"
-##### HR style
-https://css-tricks.com/examples/hrs
-##### Images
-https://unsplash.com/s/photos/burger
+## ***Credits***
+***Code Institute:*** 
+ - *HTML Essentials*
+ - *Portfolio 1: Assessment Guide Preview*
+ - *CSS Essentials*
+ - *IDE and Deployment Essentials*
+ - *User Experience Essentials*
+ - *Love Running - Essentails Project and Essentials Project(deprecated)*
+ - *Portfolio 1: Project Submission*
+ - *Slack forum*
+ - *Student support*
+***My mentor***
+***Google fonts:***
+*Font Family: "Fjalla One" and "Ysabeau SC"*
+***Links hover effect:***
+*https://css-tricks.com/css-link-hover-effects*
+***Title text-shading:***
+*https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
+***Burger Showcase:***
+*[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
+***HR style:***
+*https://css-tricks.com/examples/hrs*
+***Images:***
+*https://unsplash.com/s/photos/burger*
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23b2f6aa-884a-4e30-ba86-ae6169325d88)
 
-### Developer & Author
-[Glenn Johansson]
+## ***Developer & Author***
+***[Glenn Johansson]***
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/3240dc45-f3bd-4395-8ef1-23b443803e6e)
