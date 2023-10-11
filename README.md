@@ -48,21 +48,22 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/0145cd98-e845-44b9-8f88-7577e34c7e63)
 
 ## ***Testing***
-### ***Testing html***
-#### ***NU Html Checker - Performed using the live preview url***
+### ***HTML(NU Html Checker)***
 - ***index.html:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6155a53d-5d48-423d-9eb7-a4a0b37e25bc)
 - ***menu.html:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/8c7009a6-9402-427b-b1b1-8ac9ce853439)
 
-### ***Testing CSS***
-#### ***The W3C Validation Servcie - Performed using direct input***
+### ***CSS(Jigsaw)*** 
 - ***style.css:***
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4a94a51c-dbbf-45fb-ab3b-e3ca2d7652b9)
 
-### ***Testing Website***
-#### ***lighthouse - Performance Test***
-[image]
+### ***Website Performance(Lighthouse)***
+- ***index.html***
+- ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/e6a174fb-f968-4617-a1a8-8ab4a2898226)
+- ***menu.html***
+- ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/db8412e1-958c-487b-bfad-e952be33d944)
+
 
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
 
