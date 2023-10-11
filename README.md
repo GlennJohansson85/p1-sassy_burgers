@@ -52,17 +52,15 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ### ***Testing html - Performed using the live preview url***
 #### ***NU Html Checker***
 ***index.html:***
-<br>
-![image]
-***menu.html***
-<br>
-![image]
-<br>
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/6155a53d-5d48-423d-9eb7-a4a0b37e25bc)
+***menu.html:***
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/8c7009a6-9402-427b-b1b1-8ac9ce853439)
+
 ### ***Testing CSS - Performed using direct input***
 #### ***The W3C Validation Servcie***
 ***style.css***
-<br>
-![image]
+![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/4a94a51c-dbbf-45fb-ab3b-e3ca2d7652b9)
+
 ### ***Lighthouse(Performance test) - Performed through official website***
 [image]
 
