@@ -37,9 +37,7 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 
 ### ***Contact Us:***
 *The Contact Us section features a contact form that allows users to get in touch with the restaurant. It includes fields for the user's name, email address, and message. Users can submit their inquiries using this form.*
-
 <br>
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f157a047-3bea-4583-9b7d-c7ece55c27ff)
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/f9f6ac23-c94b-4479-9477-e923973a3cd8)
 
@@ -76,7 +74,7 @@ Maintaining visual consistency, all images feature a uniform outline in the same
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/1a4490f9-2ff7-4cbc-8fd7-a5ae9d864b4c)
 
 ## ***Credits***
-***Code Institute:*** 
+#### ***Code Institute:*** 
  - *HTML Essentials*
  - *Portfolio 1: Assessment Guide Preview*
  - *CSS Essentials*
@@ -86,26 +84,19 @@ Maintaining visual consistency, all images feature a uniform outline in the same
  - *Portfolio 1: Project Submission*
  - *Slack forum*
  - *Student support*
-
-<br>
-
-***My mentor***
-<br>
-***Google fonts:*** *Font Family: "Fjalla One" and "Ysabeau SC"*
-<br>
-***Links hover effect:*** *https://css-tricks.com/css-link-hover-effects*
-<br>
-***Title text-shading:*** *https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
-<br>
-***Burger Showcase:*** *[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
-<br>
-***HR style:*** *https://css-tricks.com/examples/hrs*
-<br>
-***Images:*** *https://unsplash.com/s/photos/burger*
-<br>
+#### ***My mentor***
+#### ***Google fonts:*** 
+*Font Family: "Fjalla One" and "Ysabeau SC"*
+#### ***Links hover effect:*** 
+*https://css-tricks.com/css-link-hover-effects*
+#### ***Title text-shading:*** 
+*https://kinsta.com/blog/css-text-outline (However, proud to say I came up with the "shine" effect.)*
+##### ***Burger Showcase:*** 
+*[FreeCourseSite.com] Udemy - Build Responsive Real World Websites with HTML5 and CSS3"*
+##### ***HR style:*** 
+*https://css-tricks.com/examples/hrs*
+#### ***Images:*** *https://unsplash.com/s/photos/burger*
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/23b2f6aa-884a-4e30-ba86-ae6169325d88)
-<br>
 ## ***Developer & Author***
 ***[Glenn Johansson]***
-
 ![image](https://github.com/GlennJohansson85/p1-sassy_burgers/assets/139962883/3240dc45-f3bd-4395-8ef1-23b443803e6e)
